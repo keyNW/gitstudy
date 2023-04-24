@@ -5,6 +5,8 @@ Git tracks changes of files.
 Creating a new branch is quick AND simple.
 
 Try a new function to merge dev.
+Try new issue and stash.
+
 
 
 
